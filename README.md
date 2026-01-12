@@ -35,7 +35,5 @@ To view the PCB schematics and layouts:
 - There’s currently no description or documentation for each design — consider adding notes, images, and pin descriptions in future commits.
 - You can add *Gerber outputs*, *schematic previews*, or *board photos* for better clarity.
 
-## 📄 License
 
-This repository does not currently include a license. Add one (e.g., MIT) if you want to share it publicly.
 
